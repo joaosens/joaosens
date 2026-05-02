@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=joaosens)
+![PROFILE VIEWS]&color=blueviolet(https://komarev.com/ghpvc/?username=joaosens)
 
 ## Hi there 👋
 
