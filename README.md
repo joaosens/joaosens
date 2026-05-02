@@ -1,4 +1,4 @@
-![Views](https://komarev.com)
+![](https://komarev.com/ghpvc/?username=joaosens)
 
 ## Hi there 👋
 
